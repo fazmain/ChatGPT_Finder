@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ChatGPT Bookmark Extension",
+  "name": "ChatGPT Chat Finder",
   "version": "1.0",
   "permissions": ["storage", "activeTab", "tabs", "scripting"],
   "description": "Save and track ChatGPT links!",
