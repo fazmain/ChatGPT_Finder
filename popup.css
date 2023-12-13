@@ -15,8 +15,12 @@ body {
   user-select: none;
 }
 
-h2 {
-  color: #666666;
+.saved-chats-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+  font-size: large;
+  color: #a1cbff;
 }
 
 .logo {
@@ -52,6 +56,7 @@ h2 {
 }
 
 .saved-chats {
+  text-align: left;
   list-style-type: none;
   padding: 0;
   color: white;
@@ -139,4 +144,11 @@ h2 {
 a {
   color: white;
   text-decoration: none;
+}
+
+.footer {
+  font-size: 12px;
+  color: #c9e2ff;
+  text-align: center;
+  margin-top: 3px;
 }
