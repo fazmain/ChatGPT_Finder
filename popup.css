@@ -35,7 +35,7 @@ h2{
     margin-bottom: 30px;
     border: none;
     border-radius: 7px;
-    background-color: #1ABC9C;
+    background-color: #5C95DB;
     color: #ffffff;
     font-size: 16px;
     font-family: 'ChatGPT', sans-serif;
@@ -44,7 +44,7 @@ h2{
   }
   
   .save-button:hover {
-    background-color: #149578;
+    background-color: #A5D6F6;
   }
   
   .saved-chats {
