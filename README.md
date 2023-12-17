@@ -5,10 +5,10 @@
 
 To install the extension, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine or download the zipped folder and unzip it.
 2. Open your browser's extension settings.
 3. Enable developer mode.
-4. Click on "Load unpacked" and select the cloned repository folder.
+4. Click on "Load unpacked" and select the cloned repository folder or the unzipped folder.
 
 ## Usage
 
