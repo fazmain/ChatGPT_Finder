@@ -1,5 +1,7 @@
 
-# ChatGPT chat bookmarking extension
+# SaveGPT - ChatGPT chat bookmarking extension
+
+ChatGPT bookmark extension to track multiple users using the same chatGPT account.
 
 ## Installation
 
@@ -13,6 +15,7 @@ To install the extension, follow these steps:
 ## Usage
 
 Once the extension is installed, you can use it to bookmark chats in ChatGPT. Simply click on the extension icon while in a chat session to bookmark it.
+The extension will automatically color code chats you created.
 
 ## License
 
